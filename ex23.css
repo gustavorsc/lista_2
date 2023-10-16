@@ -1,0 +1,44 @@
+#container {
+    border: 1px solid red;
+    width: 400px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+#codigo {
+    border: 1px solid blue;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 12px;
+}
+
+#quantidade {
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 12px;
+}
+
+#button {
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 12px;
+}
+
+#divpreco{
+    text-align: center;
+}
+
+#divprecototal{
+    text-align: center;
+}
+
+#divdesc{
+    text-align: center;
+}
+
+#divprecofinal{
+    text-align: center;
+}
